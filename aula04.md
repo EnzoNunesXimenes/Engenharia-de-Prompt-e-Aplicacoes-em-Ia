@@ -47,6 +47,7 @@ print(f"O total da fatura é: R$ {total:.2f}")
 
 atue como um professor experiente em python, crie um código para  calcular uma soma, usando python, coloque comentários explicando cada etapa
 (Prompt refinado)
+
 Olá! É um prazer ter você aqui. Como seu professor de Python, meu objetivo não é apenas te dar o código, mas garantir que você entenda a **lógica** por trás de cada linha. Em Python, prezamos pela clareza e pela legibilidade.
 
 Para este exemplo, vamos criar um pequeno programa que solicita dois números ao usuário, realiza a soma e exibe o resultado de forma elegante.
