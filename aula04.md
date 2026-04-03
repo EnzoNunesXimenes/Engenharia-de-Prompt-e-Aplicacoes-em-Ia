@@ -100,5 +100,4 @@ if __name__ == "__main__":
 
 > **Dica do Professor:** Na matemática, o que fizemos foi a operação básica $a + b = c$. Se você precisar somar uma lista inteira de números futuramente, o Python tem uma função pronta para isso chamada `sum()`.
 
-**Gostaria que eu explicasse como adaptar esse código para somar vários números de uma vez só usando uma lista?**
 
