@@ -1,4 +1,6 @@
-crie um código para calcular uma soma (prompt vago)
+crie um código para calcular uma soma 
+(prompt vago)
+
 Com certeza! Para manter as coisas simples e eficientes, vou usar **Python**. É a linguagem perfeita para isso porque parece quase um inglês (ou português) estruturado.
 
 Aqui estão duas formas de fazer isso, dependendo da sua necessidade:
