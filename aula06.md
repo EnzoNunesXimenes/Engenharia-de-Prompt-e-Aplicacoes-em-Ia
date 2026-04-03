@@ -38,7 +38,4 @@ O uso de contextos adicionais revelou um comportamento de *trade-off* (troca) no
 
 **Conclusão:** As restrições estruturais garantiram o melhor resultado técnico em cenários que exigiam rigor, enquanto o excesso de contexto "atrapalhou" o foco em algoritmos puros.
 
----
 
-### Como aplicar este Markdown?
-Basta copiar o código acima. Se precisar de algum ajuste (como transformar os tópicos em uma lista de tarefas ou mudar as cores dos emojis), é só me avisar!
