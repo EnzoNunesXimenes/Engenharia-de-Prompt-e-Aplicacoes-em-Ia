@@ -1,6 +1,8 @@
 integrantes do grupo:
 André Celerino - 45952604
+---
 Enzo Nunes - 45667969
+---
 Pedro Galdino - 45704732
 ---
 
